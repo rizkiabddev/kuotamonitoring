@@ -3,7 +3,7 @@
 SERVICE_NAME=kuota-monitoring
 SERVICE_FILE=/usr/lib/systemd/system/$SERVICE_NAME.service
 INSTALL_DIR=/opt/kuotamonitoring
-BINARY_URL="https://example.com/path/to/kuota_monitoring"  # Ganti dengan URL asli
+BINARY_URL="https://github.com/rizkiabddev/kuotamonitoring/raw/refs/heads/main/kuota_monitoring" 
 BINARY_NAME=kuota_monitoring
 
 # Cek argumen
